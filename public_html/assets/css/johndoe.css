@@ -11282,8 +11282,9 @@ p {
 }
 
 .blog-card .img-holder {
-  min-width: 350px;
-  max-width: 350px;
+  min-width: 200px;
+  max-width: 200px;
+  margin: 10px;
 }
 
 .blog-card .img-holder img {
